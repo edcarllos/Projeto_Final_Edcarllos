@@ -62,7 +62,7 @@
 
 // Parâmetros do Sistema
 #define LIMITE_DB 100.0
-#define CALIBRACAO 0.00002f  // 20µPa (referência 0 dB SPL)
+#define CALIBRACAO 0.00002f
 #define AMOSTRAS 64
 #define TAMANHO_HISTORICO 128
 #define UPDATE_INTERVAL_MS 30
