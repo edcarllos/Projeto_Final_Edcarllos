@@ -22,15 +22,6 @@ O projeto utiliza a plataforma **BitDogLab** com um microcontrolador RP2040 para
 - **Periféricos:** ADC para leitura do microfone e joystick, PWM para controle do buzzer, I²C para comunicação com o display OLED, GPIO para leitura dos botões.
 - **Bibliotecas:** SDK do RP2040, biblioteca SSD1306 para o display OLED, funções de hardware padrão (adc, pwm, i2c, stdio).
 
-## Estrutura do Projeto
-├── README.md            # Este arquivo
-├── Projeto_Final_Edcarllos.c    # Código-fonte do firmware
-├── docs/                # Documentação técnica completa do projeto
-│   ├── Relatorio_Tecnico.pdf  # Relatório completo (escopo, pesquisa, especificação)
-│   └── ...              
-└── LICENSE              # Licença do projeto
-
-
 ## Como Usar
 
 1. **Configuração do Hardware:**  
